@@ -3,6 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47f2u1kynfmp6vtrjp6ijp1hqj1x0qiepna0id71xg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
+About me:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -18,7 +19,9 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=achdaisy&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/achdaisy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achdaisy&layout=compact&theme=vision-friendly-dark)](https://github.com/achdaisy/github-readme-stats)
+
+
 <!--
 **achdaisy/achdaisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

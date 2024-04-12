@@ -8,7 +8,7 @@
 
 🌱 I'm a passionate and self-driven tech enthusiast with a strong commitment to driving innovation.
 
-💼 Currently exploring opportunities in software development, machine learning, cloud computing, and cybersecurity.
+💼 Currently exploring opportunities in software development, and machine learning.
 
 📚 Always eager to learn and adapt to emerging technologies and industry trends.
 

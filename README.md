@@ -26,7 +26,7 @@ I’m currently focused on:
 - Next.js • React • Tailwind CSS • Framer Motion • ShadCN/UI
 
 **Backend**  
-- Node.js • Express •  Sequelize • REST APIs • MySQL • MongoDB 
+- Node.js • Express •  Django • Sequelize • REST APIs • MySQL • MongoDB 
 
 **Cloud & DevOps**  
 - AWS (EC2, S3, RDS, IAM) • Vercel • GitHub • Docker • Azure 

@@ -4,7 +4,7 @@
 
 # Daisy Oduor
 
-**Full-Stack Developer · Cloud Professional · Tech Builder**
+**Full-Stack Developer **
 
 *Transforming ideas into scalable, production-ready products — from pixel to deployment.*
 

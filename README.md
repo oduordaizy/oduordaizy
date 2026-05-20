@@ -81,13 +81,23 @@ I'm a Full-Stack Developer based in **Nairobi, Kenya 🇰🇪**, with a backgrou
 ## 🚀 Featured Projects
 
 ### 🚗 [iTravas — Ride Sharing Platform](https://itravas.com/)
+🔗 https://itravas.com/
 > A modern ride-sharing platform focused on smart mobility and seamless transportation experiences.
 
 `Next.js` `Node.js` `AWS` `MySQL` `REST API`
 
 ---
 
+### 🥑 [AvoworldAfrica — Avocado Supply & Logistics Platform](https://avoworldafrica.co.ke/)
+🔗 https://avoworldafrica.co.ke/
+> Connecting Kenyan avocado farmers to global export and processing markets. End-to-end supply chain platform bridging smallholder farmers with international buyers and processors.
+
+`Next.js` `Node.js` `MySQL` `AWS` `REST API`
+
+---
+
 ### 🌐 [Lintech Web Solutions](https://lintechwebsolutions.co.ke/)
+🔗 https://lintechwebsolutions.co.ke/
 > Digital agency delivering modern web solutions for businesses and startups across Kenya and beyond.
 
 `React` `Next.js` `TypeScript` `Tailwind CSS`
@@ -129,6 +139,3 @@ I'm a Full-Stack Developer based in **Nairobi, Kenya 🇰🇪**, with a backgrou
 *"Building scalable solutions, one commit at a time."*
 
 </div>
-
-
-_“Great applications are built by combining elegant code with cloud power.”_

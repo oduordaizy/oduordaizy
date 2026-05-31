@@ -4,7 +4,7 @@
 
 # Daisy Oduor
 
-Full-Stack Developer
+**Full-Stack Developer · Cloud Professional · Tech Builder**
 
 *Transforming ideas into scalable, production-ready products — from pixel to deployment.*
 
@@ -37,6 +37,7 @@ I'm a Full-Stack Developer based in **Nairobi, Kenya 🇰🇪**, with a backgrou
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)

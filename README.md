@@ -8,7 +8,7 @@
 
 *Transforming ideas into scalable, production-ready products — from pixel to deployment.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-seven-pied-37.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lintechwebsolutions.co.ke/projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daisyoduor)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oduordaizy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oduordaizy)
@@ -22,7 +22,7 @@
 I'm a Full-Stack Developer based in **Nairobi, Kenya 🇰🇪**, with a background in Computer Science and hands-on experience building modern, scalable applications across the full web stack. I enjoy going from zero to production — crafting intuitive interfaces, designing robust backend systems, and deploying cloud-powered solutions that actually ship.
 
 - 🏢 Founder @ [**Lintech Web Solutions**](https://lintechwebsolutions.co.ke/) — digital products for businesses & startups
-- 🚗 Building [**iTravas**](https://itravas.com/) — a smart ride-sharing platform for modern mobility
+- 🚗 Co-founder @ [**iTravas**](https://itravas.com/) — a smart ride-sharing platform for modern mobility
 - 🌱 Currently deepening expertise in **cloud architecture**, **AI integration**, and **DevOps workflows**
 - 💬 Ask me about **Next.js**, **AWS**, **system design**, or **building SaaS from scratch**
 
@@ -33,8 +33,8 @@ I'm a Full-Stack Developer based in **Nairobi, Kenya 🇰🇪**, with a backgrou
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=flat-square&logo=shadcnui&logoColor=white)
@@ -82,15 +82,13 @@ I'm a Full-Stack Developer based in **Nairobi, Kenya 🇰🇪**, with a backgrou
 ## 🚀 Featured Projects
 
 ### 🚗 [iTravas — Ride Sharing Platform](https://itravas.com/)
-🔗 https://itravas.com/
-> A modern ride-sharing platform focused on smart mobility and seamless transportation experiences.
+> A modern ride-sharing platform focused on smart mobility and seamless transportation experiences across Africa.
 
-`Next.js` `Node.js` `AWS` `MySQL` `REST API`
+`React` `Node.js` `AWS` `MySQL` `REST API`
 
 ---
 
 ### 🥑 [AvoworldAfrica — Avocado Supply & Logistics Platform](https://avoworldafrica.co.ke/)
-🔗 https://avoworldafrica.co.ke/
 > Connecting Kenyan avocado farmers to global export and processing markets. End-to-end supply chain platform bridging smallholder farmers with international buyers and processors.
 
 `Next.js` `Node.js` `MySQL` `AWS` `REST API`
@@ -98,12 +96,11 @@ I'm a Full-Stack Developer based in **Nairobi, Kenya 🇰🇪**, with a backgrou
 ---
 
 ### 🌐 [Lintech Web Solutions](https://lintechwebsolutions.co.ke/)
-🔗 https://lintechwebsolutions.co.ke/
 > Digital agency delivering modern web solutions for businesses and startups across Kenya and beyond.
 
 `React` `Next.js` `TypeScript` `Tailwind CSS`
 
----
+
 
 ## 📚 What I'm Interested In
 
@@ -123,7 +120,7 @@ I'm a Full-Stack Developer based in **Nairobi, Kenya 🇰🇪**, with a backgrou
 
 | | |
 |---|---|
-| 🌍 Portfolio | [portfolio-seven-pied-37.vercel.app](https://portfolio-seven-pied-37.vercel.app/) |
+| 🌍 Portfolio | [https://lintechwebsolutions.co.ke/projects](https://lintechwebsolutions.co.ke/projects)) |
 | 💼 LinkedIn | [linkedin.com/in/daisyoduor](https://www.linkedin.com/in/daisyoduor) |
 | 📧 Email | [oduordaizy@gmail.com](mailto:oduordaizy@gmail.com) |
 | 🐙 GitHub | [github.com/oduordaizy](https://github.com/oduordaizy) |
